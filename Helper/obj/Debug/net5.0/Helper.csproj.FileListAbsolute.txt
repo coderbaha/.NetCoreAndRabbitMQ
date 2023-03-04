@@ -1,0 +1,15 @@
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\bin\Debug\net5.0\Helper.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\bin\Debug\net5.0\ref\Helper.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\bin\Debug\net5.0\Helper.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\bin\Debug\net5.0\Entity.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\bin\Debug\net5.0\Entity.pdb
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\Helper.csproj.CopyComplete
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\Helper.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\ref\Helper.dll
+C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\Helper\obj\Debug\net5.0\Helper.pdb

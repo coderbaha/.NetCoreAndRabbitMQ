@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j09nazYjfkZLvGe/60iZWM+ZZLMGi/btsGG+eMK/V01uEy0Xob6BirvKKSKFcIyDqM9iSKbkHDbAQTM9NDt71A==",
+  "success": true,
+  "projectFilePath": "C:\\TFS\\THE Hiring Challenge\\BAHADIRASIK\\WEB-959\\Helper\\Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t007388\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\t007388\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\t007388\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

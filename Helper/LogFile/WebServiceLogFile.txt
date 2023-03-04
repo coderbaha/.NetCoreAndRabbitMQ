@@ -1,0 +1,1196 @@
+﻿ReportInfoDailyDocumentsByCreateUser:200:Başarılı:6/6/2022 11:18:48 AM
+ReportInfoDailyDocumentsByCreateUser:0:Value cannot be null. (Parameter 'source'):6/6/2022 11:22:06 AM
+ReportInfoDailyDocumentsByCreateUser:0:Value cannot be null. (Parameter 'source'):6/6/2022 11:24:12 AM
+ReportInfoDailyDocumentsByCreateUser:0:One or more errors occurred. (Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 
+'System.Collections.Generic.List`1[Entity.Business.ServiceResult`1[Entity.Business.DocumentResponse]]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'documentList', line 1, position 16.):6/6/2022 12:18:37 PM
+ReportInfoDailyDocumentsByCreateUser:0:One or more errors occurred. (Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[Entity.Business.ServiceResult`1[Entity.Business.DocumentResponse]]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'documentList', line 1, position 16.):6/6/2022 12:21:33 PM
+ReportInfoDailyDocumentsByCreateUser:0:One or more errors occurred. (Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'Entity.Business.DocumentResponse' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'documentList', line 1, position 17.):6/6/2022 1:45:37 PM
+ReportInfoDailyDocumentsByCreateUser:0:One or more errors occurred. (Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'Entity.Business.DocumentResponse' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'documentList', line 1, position 17.):6/6/2022 1:47:42 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+WhereListIterator`1 -> ServiceResult`1
+System.Linq.Enumerable+WhereListIterator`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entity.Business.ServiceResult`1[[System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]:6/6/2022 2:20:41 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+WhereListIterator`1 -> ServiceResult`1
+System.Linq.Enumerable+WhereListIterator`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entity.Business.ServiceResult`1[[System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]:6/6/2022 2:23:18 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+WhereListIterator`1 -> ServiceResult`1
+System.Linq.Enumerable+WhereListIterator`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entity.Business.ServiceResult`1[[System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]:6/6/2022 2:24:31 PM
+ReportInfoDailyDocumentsByCreateUser:200:Başarılı:6/6/2022 2:36:46 PM
+ReportInfoDailyDocumentsByCreateUser:200:Başarılı:6/6/2022 2:41:50 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> DocumentView
+System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entity.Business.View.DocumentView:6/6/2022 5:02:07 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> DocumentView
+System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entity.Business.View.DocumentView:6/6/2022 5:03:23 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+DocumentResponse -> ServiceResult`1
+Entity.Business.DocumentResponse -> Entity.Business.ServiceResult`1[[System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]:6/6/2022 5:50:53 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+DocumentResponse -> ServiceResult`1
+Entity.Business.DocumentResponse -> Entity.Business.ServiceResult`1[[System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]:6/6/2022 5:52:27 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+DocumentResponse -> ServiceResult`1
+Entity.Business.DocumentResponse -> Entity.Business.ServiceResult`1[[System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]:6/6/2022 5:53:45 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+DocumentResponse -> ServiceResult`1
+Entity.Business.DocumentResponse -> Entity.Business.ServiceResult`1[[System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]:6/6/2022 5:54:46 PM
+ReportInfoDailyDocumentsByCreateUser:0:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+DocumentResponse -> ServiceResult`1
+Entity.Business.DocumentResponse -> Entity.Business.ServiceResult`1[[System.Collections.Generic.List`1[[Entity.Business.Document, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]:6/6/2022 5:55:33 PM
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 12 | Event Name : AuthenticationSchemeChallenged | Formatter : AuthenticationScheme: BasicAuthentication was challenged.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 12 | Event Name : AuthenticationSchemeChallenged | Formatter : AuthenticationScheme: BasicAuthentication was challenged.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 12 | Event Name : AuthenticationSchemeChallenged | Formatter : AuthenticationScheme: BasicAuthentication was challenged.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 12 | Event Name : AuthenticationSchemeChallenged | Formatter : AuthenticationScheme: BasicAuthentication was challenged.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 12 | Event Name : AuthenticationSchemeChallenged | Formatter : AuthenticationScheme: BasicAuthentication was challenged.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 12 | Event Name : AuthenticationSchemeChallenged | Formatter : AuthenticationScheme: BasicAuthentication was challenged.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : RabbitMQ ile bağlantı kuruldu.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:17.02.2023 18:08:34
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocumentsByCreateUser:Başarılı:200:17.02.2023 18:08:37
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:17.02.2023 18:10:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocumentsByCreateUser:Başarılı:200:17.02.2023 18:10:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:17.02.2023 18:27:15
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 12 | Event Name : AuthenticationSchemeChallenged | Formatter : AuthenticationScheme: BasicAuthentication was challenged.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:17.02.2023 18:32:15
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:17.02.2023 18:34:36
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:17.02.2023 18:38:21
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 18:44:14
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 18:48:32
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 18:56:36
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 18:56:55
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 18:57:51
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 19:14:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 19:15:19
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 19:27:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 19:32:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 19:35:53
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 19:42:37
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 19:46:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:19.02.2023 19:50:33
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:21.02.2023 18:33:16
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:21.02.2023 18:34:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:21.02.2023 18:41:23
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:26
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:28
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:29
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:31
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:33
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:34
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:36
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:37
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:39
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:42
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:44
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:45
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:47
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:49
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:51
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:52
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:41:54
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:21.02.2023 18:45:16
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:18
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:19
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:21
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:23
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:25
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:27
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:28
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:30
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:31
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:33
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:35
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:36
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:38
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:39
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:43
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:46
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 18:45:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:21.02.2023 19:09:46
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:09:50
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:09:52
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:09:54
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:09:55
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:09:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:13
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:14
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:16
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:18
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:19
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 19:10:21
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:21.02.2023 21:07:44
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:07:49
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:07:51
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:07:55
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:07:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:14
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:08:16
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:21.02.2023 21:09:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:13
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:15
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:17
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:18
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:21
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:22
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:10:24
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:21.02.2023 21:11:28
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:38
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:39
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:39
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:39
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:39
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:39
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:42
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:42
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:42
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:42
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:42
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:43
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:43
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:43
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:43
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:43
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:43
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:44
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:44
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:44
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:44
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:44
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:45
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:45
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:45
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:45
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:21.02.2023 21:11:45
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:23.02.2023 17:55:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:13
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:15
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:17
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:18
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:20
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:22
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:24
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:26
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:27
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:29
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:31
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:32
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:34
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:36
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:38
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:41
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:43
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:45
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:47
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:49
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:50
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:52
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:54
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:55
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:57
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:55:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:56:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 17:56:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:23.02.2023 17:59:57
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:13
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:15
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:16
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:18
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:20
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:22
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:24
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:26
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:27
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:29
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:31
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:32
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:00:34
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:23.02.2023 18:02:50
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:02:50
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:02:53
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:02:55
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:02:56
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:02:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:23.02.2023 18:04:36
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:44
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:46
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:50
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:51
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:53
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:55
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:56
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:04:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:13
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:15
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:16
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:18
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogRepositoryAdd:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : LogServiceInsert:ORA-01017: invalid username/password; logon denied
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:05:20
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:23.02.2023 18:06:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:06:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:06:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:06:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:06:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:06:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:06:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:06:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:07:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:23.02.2023 18:38:54
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:56
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:56
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:56
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:56
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:57
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:57
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:57
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:57
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:57
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:58
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:38:59
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:39:06
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:23.02.2023 18:43:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:01
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:02
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:03
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:07
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:08
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:09
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:10
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:11
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:12
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:23.02.2023 18:43:13
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:24.02.2023 14:48:29
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:31
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:31
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:32
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:32
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:32
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:32
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:32
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:48:40
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\TFS\THE Hiring Challenge\BAHADIRASIK\WEB-959\API
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:24.02.2023 14:57:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:04
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:05
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:57:13
+Log Level : Information | Event ID : 7 | Event Name : AuthenticationSchemeNotAuthenticatedWithFailure | Formatter : BasicAuthentication was not authenticated. Failure message: Başarısız doğrulama: The format of value '<null>' is invalid.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : ReportInfoDailyDocuments:Başarılı:200:24.02.2023 14:59:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:40
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:48
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : GetFileData:Başarılı:200:24.02.2023 14:59:48
